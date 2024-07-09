@@ -23,8 +23,8 @@ Tools Used:
 Analysis & Findings
 
 Analysis Headings:
-Average Cost Analysis
-Ratings and Reviews Analysis
-Popularity Analysis
-Restaurant Count Analysis
-Service Availability Analysis
+Average Cost Analysis,
+Ratings and Reviews Analysis,
+Popularity Analysis,
+Restaurant Count Analysis,
+Service Availability Analysis.
